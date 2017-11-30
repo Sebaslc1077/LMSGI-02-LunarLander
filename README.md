@@ -1,4 +1,4 @@
-# LMSGI-02-LunarLander
+# LMSGI-02-LunarLander (mini)
 
 https://rawgit.com/Sebaslc1077/LMSGI-02-LunarLander/master/index.html
 
