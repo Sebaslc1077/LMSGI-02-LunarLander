@@ -27,3 +27,5 @@ https://stackoverflow.com/questions/14853929/css-put-an-image-centered-on-top-of
 
 Creación de menu desplegable
 https://www.w3schools.com/css/css_dropdowns.asp
+
+Hipervinculo a placeholder **rules.html**, para comprobar que los enlaces funcionan en diferentes resoluciones.
