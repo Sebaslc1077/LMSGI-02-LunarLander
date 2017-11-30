@@ -11,6 +11,7 @@ https://www.w3schools.com/css/default.asp
 **Herramientas utilizadas**
 
 https://www.willpeavy.com/minifier/
+
 https://cssminifier.com/
 
 
@@ -29,3 +30,5 @@ Creación de menu desplegable
 https://www.w3schools.com/css/css_dropdowns.asp
 
 Hipervinculo a placeholder **rules.html**, para comprobar que los enlaces funcionan en diferentes resoluciones.
+
+index-pc.html e index-mob.html se encuentran en la carpeta **nomediaquery** para encontrarlos con facilidad y para tenerlos separados del index.html que se usa para la entrega.
